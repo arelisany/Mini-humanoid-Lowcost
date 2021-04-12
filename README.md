@@ -5,4 +5,4 @@ En este apartado se encontrará información acerca de los diferentes concursos 
 
 Contenido: 
 
-[1] Nava Rodriguez, Nestor & Carbone, Giuseppe & Ceccarelli, Marco. (2006). Antropomorphic Design and Operation of a New Low-Cost Humanoid Robot. 2006. 933 - 938. 10.1109/BIOROB.2006.1639211. 
+[1] JARDÓN HUETE, Alberto & Rodriguez, Félix & Victores, Juan & Martinez, Santiago & Balaguer, Carlos. (2014). A Review of Eight Years of CEABOT Contest: A National Wide Mini Humanoids Competition. 10.1007/978-3-319-03653-3_4. 
