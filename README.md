@@ -1,1 +1,3 @@
-# En este espacio podremos aprender del trabajo y proceso de Nicolás
+# Diseño y construcción - Nicolás
+
+En este espacio podremos aprender del trabajo y proceso de Nicolás
